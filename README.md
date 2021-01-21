@@ -1,4 +1,4 @@
-# NYC-311-Project
+# Customer Service Requests Analysis
 Project of Data Science with Python
 DESCRIPTION
 
